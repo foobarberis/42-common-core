@@ -1,0 +1,8 @@
+Django==5.0.1
+django-cors-headers
+django-prometheus
+uvicorn
+web3
+djangorestframework
+python-dotenv
+pydantic
